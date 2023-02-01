@@ -1,0 +1,17 @@
+current directory: /Users/nagao/products/my_products/demo-live-chat-for-vuejs/demo-live-chat-api/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+/Users/nagao/.rbenv/versions/3.1.3/bin/ruby -I /Users/nagao/.rbenv/versions/3.1.3/lib/ruby/3.1.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/nagao/products/my_products/demo-live-chat-for-vuejs/demo-live-chat-api/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230201-82607-bx3d3x sitelibdir\=./.gem.20230201-82607-bx3d3x clean
+
+current directory: /Users/nagao/products/my_products/demo-live-chat-for-vuejs/demo-live-chat-api/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230201-82607-bx3d3x sitelibdir\=./.gem.20230201-82607-bx3d3x
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/nagao/products/my_products/demo-live-chat-for-vuejs/demo-live-chat-api/vendor/bundle/ruby/3.1.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230201-82607-bx3d3x sitelibdir\=./.gem.20230201-82607-bx3d3x install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20230201-82607-bx3d3x/racc
